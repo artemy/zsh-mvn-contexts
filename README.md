@@ -40,7 +40,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Notes
 
-Thanks [Robin Trietsch](https://github.com/trietsch) for the idea and contributions.
+Thanks to [Robin Trietsch](https://github.com/trietsch) for the idea and contributions.
 
 ## License
 
