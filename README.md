@@ -59,4 +59,4 @@ Thanks to [Robin Trietsch](https://github.com/trietsch) for the idea and contrib
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
